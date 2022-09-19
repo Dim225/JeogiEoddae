@@ -1,1 +1,1 @@
-# JeogiEoddae
+# 풀스텍 프로젝트
