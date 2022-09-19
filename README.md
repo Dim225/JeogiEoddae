@@ -6,7 +6,11 @@ Project (2022.09.19~2022.09.222)
 
  ```
  
- #### Models
+ #### Libs
  ```
 
  ```
+
+#### Contributors
+```
+ 항해99 first Project입니다. 
